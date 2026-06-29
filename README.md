@@ -64,7 +64,7 @@ print(eb.difference(mb))
 print(len(q.difference(p)))
 ```
 ## Output
-``` 
+```
 Enter first name:Rajvir
 Enter second name:Inderjeet
 enter third name:Kamal
